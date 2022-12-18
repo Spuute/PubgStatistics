@@ -11,21 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{46111D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{43F366E5-C38A-4DFA-AAA9-2281437F122B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Blazor", "PubgStatistics.Blazor\PubgStatistics.Blazor.csproj", "{C942066B-C343-4E0E-AA1C-97BBE7BB2D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Blazor", "PubgStatistics.Blazor\PubgStatistics.Blazor.csproj", "{C942066B-C343-4E0E-AA1C-97BBE7BB2D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.WebApi", "PubgStatistics.WebApi\PubgStatistics.WebApi.csproj", "{2286118D-C229-4DD0-931E-C2ECE68D1339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.WebApi", "PubgStatistics.WebApi\PubgStatistics.WebApi.csproj", "{2286118D-C229-4DD0-931E-C2ECE68D1339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Persistence", "PubgStatistics.Persistence\PubgStatistics.Persistence.csproj", "{F6F0BD35-30E2-4FAA-968E-26939B59660B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Persistence", "PubgStatistics.Persistence\PubgStatistics.Persistence.csproj", "{F6F0BD35-30E2-4FAA-968E-26939B59660B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Entities", "PubgStatistics.Entities\PubgStatistics.Entities.csproj", "{02E0A435-C7F3-4947-8EB3-881F7136C5AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Entities", "PubgStatistics.Entities\PubgStatistics.Entities.csproj", "{02E0A435-C7F3-4947-8EB3-881F7136C5AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Discord.Application", "PubgStatistics.Discord.Application\PubgStatistics.Discord.Application.csproj", "{5D1C2926-17F2-4457-AA19-ABA6E8F12F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Discord.Application", "PubgStatistics.Discord.Application\PubgStatistics.Discord.Application.csproj", "{5D1C2926-17F2-4457-AA19-ABA6E8F12F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Blazor.Application", "PubgStatistics.Blazor.Application\PubgStatistics.Blazor.Application.csproj", "{358C793F-66C5-45F0-B1FF-86B9F69CDFEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Blazor.Application", "PubgStatistics.Blazor.Application\PubgStatistics.Blazor.Application.csproj", "{358C793F-66C5-45F0-B1FF-86B9F69CDFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.WebApi.Application", "PubgStatistics.WebApi.Application\PubgStatistics.WebApi.Application.csproj", "{B89AADE3-4B45-4AEA-A687-DE908B9EBCB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.WebApi.Application", "PubgStatistics.WebApi.Application\PubgStatistics.WebApi.Application.csproj", "{B89AADE3-4B45-4AEA-A687-DE908B9EBCB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubgStatistics.Shared.Application", "PubgStatistics.Shared.Application\PubgStatistics.Shared.Application.csproj", "{CEBC8F34-1F96-47E8-8519-307BF776BBB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubgStatistics.Shared.Application", "PubgStatistics.Shared.Application\PubgStatistics.Shared.Application.csproj", "{CEBC8F34-1F96-47E8-8519-307BF776BBB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,9 +1,23 @@
 ﻿@page "/"
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Pubg stats</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="container-fluid">
+    <input type="text" @bind-value="@playerName" />
+    <input type="button" value="Search" @onclick="@SearchPlayer">
+    <div class="form-group">
+        <label for="">Playername</label>
+        <input type="text" class="form-control" id="" aria-describedby="" placeholder="Enter playername, eg. Spuute">
+        <small id="" class="form-text text-muted">You must enter the correct name with upper and lowercase letters.</small>
+        <input type="submit" class="btn btn-primary" value="Search" />
+    </div>
+</div>
 
-Welcome to your new app.
+@code {
+    private string playerName;
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+    async Task SearchPlayer()
+    {
+
+    }
+}
